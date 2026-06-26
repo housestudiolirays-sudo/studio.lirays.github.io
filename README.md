@@ -14,8 +14,7 @@ html<!DOCTYPE html>
 <body>
 
   
-    <img src="<img width="1080" height="1920" alt="9" src="https://github.com/user-attachments/assets/3a702bfd-2f1f-4741-b914-92fc31c7231f" />
-" alt="9月" width="400">
+  <img src="9.jpg" alt="写真1" width="400">
     <img src="<img width="1080" height="1920" alt="10" src="https://github.com/user-attachments/assets/92a54c08-cff2-4846-b628-da32d2d5d478" />
 " alt="10月" width="400">
     <img src="<img width="1080" height="1920" alt="11" src="https://github.com/user-attachments/assets/acf5a43c-2a55-4013-9b86-210f57efd17d" />
