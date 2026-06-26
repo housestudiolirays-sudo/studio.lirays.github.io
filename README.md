@@ -1,5 +1,14 @@
 
 <html lang="ja">
+    <html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>はじめてのホームページ</title>
+    </head>
+    <body>
+        <h1>こんにちは、HTMLの世界！</h1>
+        <p>これは自分で書いたホームページです。</p>
+    </body>
 <head>
     <meta charset="UTF-8">
  
