@@ -3,11 +3,11 @@
     <html>
     <head>
         <meta charset="UTF-8" />
-        <title>はじめてのホームページ</title>
+        <title>studio.lirays</title>
     </head>
     <body>
-        <h1>こんにちは、HTMLの世界！</h1>
-        <p>これは自分で書いたホームページです。</p>
+        <h1>9月〜11月の営業日のお知らせ</h1>
+        <p>随時、ご予約を受付しているため、実際の埋まっている場合がございます</p>
     </body>
 <head>
     <meta charset="UTF-8">
