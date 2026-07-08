@@ -1,33 +1,23 @@
-
-<html lang="ja">
-    <html>
-    <head>
-        <meta charset="UTF-8" />
-        <title>studio.lirays</title>
-    </head>
+</head>
     <body>
         <h1>9月〜11月の営業日のお知らせ</h1>
-        <p>随時、ご予約を受付しているため、実際の埋まっている場合がございます</p>
+        <p>随時、ご予約を受付しているため、実際には埋まっている場合がございます。</p>
+        <p>日程が合わない場合は、LINEにてご相談ください。</p>
     </body>
 <head>
     <meta charset="UTF-8">
  
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>マイギャラリー</title>
-    <style>
-        
-        body { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; background: #f0f0f0; }
-        img { max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
-    </style>
+    
 </head>
 <body>
 
-  <img src="<img width="1080" height="1920" alt="9" src="https://github.com/user-attachments/assets/12988e07-8a60-4153-93f8-50b975f37ed8" />
-" alt="写真1" width="400">
-<img src="<img width="1080" height="1920" alt="10" src="https://github.com/user-attachments/assets/92a54c08-cff2-4846-b628-da32d2d5d478" />
-" alt="10月" width="400">
-<img src="<img width="1080" height="1920" alt="11" src="https://github.com/user-attachments/assets/acf5a43c-2a55-4013-9b86-210f57efd17d" />
-" alt="11月" width="400">
+<img width="1080" height="1920" alt="9" src="https://github.com/user-attachments/assets/9f474fb0-93d4-4636-88ea-a0398e1d2341" />
+<alt="9月" width="400">
+<img width="1080" height="1920" alt="10" src="https://github.com/user-attachments/assets/f6f14e94-02df-4562-989e-76773fc1d6e1" />
+<alt="10月" width="400">
+<img width="1080" height="1920" alt="11" src="https://github.com/user-attachments/assets/578a3fab-ff23-40bd-b6c2-09275a3dbe60" />
+<alt="11月" width="400">
 
+  <p>studio.lirays</p>
 </body>
 </html>
